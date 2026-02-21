@@ -1,5 +1,5 @@
 {
-	"name": "image_processing",
+	"name": "image_processing2",
 	"version": "1.0.0",
 	"main": "node image_to_ASCII_converter.js",
 	"scripts": {
