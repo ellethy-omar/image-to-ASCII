@@ -1,0 +1,17 @@
+{
+	"name": "image_processing",
+	"version": "1.0.0",
+	"main": "node image_to_ASCII_converter.js",
+	"scripts": {
+		"start": "node image_to_ASCII_converter.js",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"postinstall": "node scripts/install-hooks.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"ascii-art": "^2.8.5",
+		"jimp": "^1.6.0"
+	}
+}
