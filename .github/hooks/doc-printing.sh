@@ -8,5 +8,5 @@ printf "${RED_BOLD}REMEMBER YOUR API DOCUMENTATION!${RESET}\n"
 printf "${RED_BOLD}=================================${RESET}\n"
 
 printf "${RED_BOLD}=================================${RESET}\n"
-printf "${RED_BOLD}I KNOW WHERE YOU LIVE.${RESET}\n"
+printf "${RED_BOLD}  I KNOW WHERE YOU LIVE.${RESET}\n"
 printf "${RED_BOLD}=================================${RESET}\n"
