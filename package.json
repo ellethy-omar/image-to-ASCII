@@ -5,6 +5,7 @@
 	"scripts": {
 		"start": "node image_to_ASCII_converter.js",
 		"test": "echo \"Error: no test specified\" && exit 0",
+		"tests": "echo \"Error: no test specified\" && exit 0",
 		"postinstall": "node scripts/install-hooks.js"
 	},
 	"author": "",
